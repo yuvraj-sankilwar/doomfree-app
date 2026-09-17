@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Doomfree</string>
+    <string name="accessibility_service_description">Doomfree uses this to detect when a Distraction app is opened during a Focus session, so it can block it. It does not read or store any other content on screen.</string>
+</resources>
